@@ -1,0 +1,29 @@
+format: jb-book
+root: README
+parts:
+  - caption: Part 1 - Fundamentals
+    chapters:
+    - file: 01_Part1_Scientific_Mindset
+    - file: 02_Part1_Literature_Search_Strategy
+    - file: 03_Part1_Literature_Management
+    - file: 04_Part1_Writing_the_Review
+  - caption: Part 2 - Writing Structure
+    chapters:
+    - file: 05_Part2_The_Introduction
+    - file: 06_Part2_The_Study_Area
+    - file: 07_Part2_Methodology_Design
+  - caption: Part 3 - Analysis (GEE)
+    chapters:
+    - file: 08_Part3_GEE_Interface
+    - file: 09_Part3_Remote_Sensing_Concepts
+    - file: 10_Part3_Project_Forest
+    - file: 11_Part3_Project_UHI
+    - file: 12_Part3_Project_Flood
+  - caption: Part 4 - Interpretation
+    chapters:
+    - file: 13_Part4_Data_Presentation
+    - file: 14_Part4_Interpretation_Discussion
+  - caption: Part 5 - References
+    chapters:
+    - file: 15_Part5_Citations_Integrity
+    - file: 16_Part5_Reference_Tools
